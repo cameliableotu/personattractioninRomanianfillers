@@ -272,7 +272,7 @@ var items = [
 [["filler-twonounssingularcorrectchoice",39], "EPDashedSentence", {s:"+"}, DS, {s:"Girafele pe care eu le",as: [['s','privesc'],['k','priveşte']]}], 
 [["filler-twonounssingularcorrectchoice",40], "EPDashedSentence", {s:"+"}, DS, {s:"Motanii pe care eu îi",as: [['s','adăpostesc'],['k','adăposteşte']]}], 
 [["filler-twonounssingularcorrectchoice",41], "EPDashedSentence", {s:"+"}, DS, {s:"Şerpii pe care tu îi",as: [['s','striveşti'],['k','striveşte']]}], 
-[["filler-twonounssingularcorrectchoice",42], "EPDashedSentence", {s:"+"}, DS, {s:"Stelele pe care tu le",as: [['s','urmăreşti'],['k','urmăreşte]]}], 
+[["filler-twonounssingularcorrectchoice",42], "EPDashedSentence", {s:"+"}, DS, {s:"Stelele pe care tu le",as: [['s','urmăreşti'],['k','urmăreşte']]}], 
 [["filler-twonounssingularcorrectchoice",43], "EPDashedSentence", {s:"+"}, DS, {s:"Barurile pe care tu le",as: [['s','construieşti'],['k',' construieşte']]}], 
 [["filler-twonounssingularcorrectchoice",44], "EPDashedSentence", {s:"+"}, DS, {s:"Păsările pe care tu le",as: [['s','vezi'],['k','vede']]}], 
 [["filler-twonounssingularcorrectchoice",45], "EPDashedSentence", {s:"+"}, DS, {s:"Sucurile pe care el le",as: [['s','bea'],['k','beau']]}], 
