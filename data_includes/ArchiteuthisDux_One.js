@@ -157,7 +157,6 @@ var items = [
 [["ATTRAGREEROMANIAN-mismatchheadsg1",9], "EPDashedSentence", {s:"+"}, DS, {s:"Cuţitul de lângă noi mereu ",as: [['s','avem'],['k','are']]}], 
 [["ATTRAGREEROMANIAN-mismatchheadsg2",9], "EPDashedSentence", {s:"+"}, DS, {s:"Cuţitul de lângă voi mereu ",as: [['s','aveţi'],['k','are']]}], 
 [["ATTRAGREEROMANIAN-mismatchheadsg3",9], "EPDashedSentence", {s:"+"}, DS, {s:"Cuţitul de lângă ei mereu ",as: [['s','au'],['k','are']]}], 
-[["ATTRAGREEROMANIAN-mismatchheadsg3",9], "EPDashedSentence", {s:"+"}, DS, {s:"Cuţitul de lângă ele mereu ",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEROMANIAN-matchheadpl1",9], "EPDashedSentence", {s:"+"}, DS, {s:"Cuţitele de lângă noi mereu ",as: [['s','avem'],['k','au']]}], 
 [["ATTRAGREEROMANIAN-matchheadpl2",9], "EPDashedSentence", {s:"+"}, DS, {s:"Cuţitele de lângă voi mereu ",as: [['s','aveţi'],['k','au']]}],
 [["ATTRAGREEROMANIAN-matchheadpl3",9], "EPDashedSentence", {s:"+"}, DS, {s:"Cuţitele de lângă ei mereu ",as: [['s','au'],['k','are']]}], 
